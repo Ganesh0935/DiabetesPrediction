@@ -32,6 +32,10 @@ A machine learning-based web application for predicting diabetes using patient d
    ```bash
    streamlit run app.py
    ```
+## Output
+
+![Output](Output/demo.png)
+
 
 ## Usage
 1. Open the application in your browser.
@@ -41,8 +45,5 @@ A machine learning-based web application for predicting diabetes using patient d
 ## Contributing
 Contributions are welcome! Feel free to submit a pull request or open an issue for suggestions.
 
-## License
-This project is licensed under the MIT License.
-
 ## Contact
-For any queries, feel free to reach out to [your email or LinkedIn].
+For any queries, feel free to reach out to dganesh0935@gmail.com
