@@ -32,7 +32,11 @@ A machine learning-based web application for predicting diabetes using patient d
    ```bash
    streamlit run app.py
    ```
-## Output
+## Webpage
+
+![Output](Output/output.png)
+
+## Sample Output
 
 ![Output](Output/demo.png)
 
